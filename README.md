@@ -19,7 +19,7 @@
 - <b>Current role</b>: Software Developer (Backend)
 - <b>GitHub</b>: [rohit11544](https://github.com/rohit11544)
 - <b>LinkedIn</b>: [Rohit Borra](https://www.linkedin.com/in/rohit-borra-67758a1a2/)
-- <b>Preferred communication</b>: email
+- <b>Preferred communication</b>: Email
 
 <h2 id="project-details">📝 Project Details</h2>
 
@@ -34,8 +34,6 @@ This work strengthens the SW360 REST layer by adding comprehensive integration t
 - Establish a baseline coverage report with JaCoCo; next step: surface coverage in GitHub Actions.
 
 <h2 id="milestones">🏁 Milestones</h2>
-
-Derived from the implemented test classes (SpecTest → Test), grouped logically.
 
 - Core domain
   - Projects: end‑to‑end CRUD, search and filters, links, attachments, license clearing, SBOM import, reports
@@ -131,28 +129,47 @@ Derived from the implemented test classes (SpecTest → Test), grouped logically
 
 <h2>Media</h2>
 
-- Insert coverage screenshots for each package (21 placeholders):
-  - [Insert] ProjectTest coverage
-  - [Insert] ComponentTest coverage
-  - [Insert] ReleaseTest coverage
-  - [Insert] UserTest coverage
-  - [Insert] SearchTest coverage
-  - [Insert] VendorTest coverage
-  - [Insert] VulnerabilityTest coverage
-  - [Insert] ScheduleTest coverage
-  - [Insert] PackageTest coverage
-  - [Insert] ImportExportTest coverage
-  - [Insert] LicenseTest coverage
-  - [Insert] ModerationRequestTest coverage
-  - [Insert] HealthTest coverage
-  - [Insert] DatabaseSanitationTest coverage
-  - [Insert] DepartmentTest coverage
-  - [Insert] EccTest coverage
-  - [Insert] ConfigurationsTest coverage
-  - [Insert] ClearingRequestTest coverage
-  - [Insert] ChangeLogTest coverage
-  - [Insert] AttachmentTest coverage
-  - [Insert] ObligationTest coverage
+- Coverage report for each package : 
+  - ProjectTest coverage : <img width="1200" height="483" alt="image" src="https://github.com/user-attachments/assets/2b7e3b67-e56d-4771-85e6-5c6c3a8ff365" />
+  
+  - ComponentTest coverage : <img width="1116" height="287" alt="image" src="https://github.com/user-attachments/assets/1ebc8068-75e3-4159-8bff-a955840a37a6" />
+  
+  - ReleaseTest coverage : <img width="1166" height="382" alt="image" src="https://github.com/user-attachments/assets/6239e31f-32aa-4f03-a0c0-d31718cda30e" />
+
+  - UserTest coverage : <img width="1062" height="283" alt="image" src="https://github.com/user-attachments/assets/913df021-ac1d-4a03-8e02-dd85aedcf419" />
+
+  - SearchTest coverage : <img width="1062" height="283" alt="image" src="https://github.com/user-attachments/assets/6d0bcc8e-eb36-41ef-ab54-e04eaee3d4b7" />
+
+  - VendorTest coverage : <img width="1062" height="283" alt="image" src="https://github.com/user-attachments/assets/3b31ce04-ad0d-4040-8d53-e7245ca94b10" />
+
+  - VulnerabilityTest coverage : <img width="1218" height="356" alt="image" src="https://github.com/user-attachments/assets/e58e738f-3fc9-4561-a67e-b624f3f6bc61" />
+
+  - ScheduleTest coverage : <img width="1079" height="249" alt="image" src="https://github.com/user-attachments/assets/da4a0973-4d88-4eaa-9128-ea49849a4c18" />
+
+  - PackageTest coverage : <img width="1079" height="249" alt="image" src="https://github.com/user-attachments/assets/19552381-ca52-4037-a52d-f5fe3d3ed0e5" />
+
+  - ImportExportTest coverage : <img width="1079" height="249" alt="image" src="https://github.com/user-attachments/assets/456dc369-8855-418a-86b7-f2148f3419b1" />
+
+  - LicenseTest coverage : <img width="1079" height="249" alt="image" src="https://github.com/user-attachments/assets/f2dbc62a-48cc-4520-90d8-ff2010aaff3d" />
+
+  - ModerationRequestTest coverage : <img width="1168" height="335" alt="image" src="https://github.com/user-attachments/assets/1e500bd3-2dad-440d-89b5-4b88bea4a474" />
+
+  - DatabaseSanitationTest coverage : <img width="1156" height="243" alt="image" src="https://github.com/user-attachments/assets/d1855035-8b6c-4074-8b70-92e613bc3f37" />
+
+  - DepartmentTest coverage : <img width="1156" height="243" alt="image" src="https://github.com/user-attachments/assets/6fcde8f2-31e5-42ce-b097-a26b5e9768a0" />
+
+  - EccTest coverage : <img width="1018" height="229" alt="image" src="https://github.com/user-attachments/assets/8418e528-45da-4cd4-9c2b-cea881c92836" />
+
+  - ConfigurationsTest coverage : <img width="1140" height="261" alt="image" src="https://github.com/user-attachments/assets/78f558ae-27cc-440f-b588-f9187e9129eb" />
+
+  - ClearingRequestTest coverage : <img width="1140" height="261" alt="image" src="https://github.com/user-attachments/assets/c4fd24eb-0a63-4604-a5ec-4ec40c42ba73" />
+
+  - ChangeLogTest coverage : <img width="1200" height="262" alt="image" src="https://github.com/user-attachments/assets/a8b15913-74fc-4934-9208-6e46d5b8e4fa" />
+
+  - AttachmentTest coverage : <img width="1122" height="304" alt="image" src="https://github.com/user-attachments/assets/929dfb88-d254-4489-bd3e-98bbbfb973b1" />
+
+  - ObligationTest coverage : <img width="1130" height="255" alt="image" src="https://github.com/user-attachments/assets/7bb5b0df-21e2-4a22-8302-1cec83848e41" />
+
 
 <h2>Future Work</h2>
 
