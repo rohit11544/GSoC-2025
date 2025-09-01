@@ -125,7 +125,7 @@ This work strengthens the SW360 REST layer by adding comprehensive integration t
 
 <h2 id="acknowledgements">🎓 Acknowledgements</h2>
 
-- Mentor: [Gaurav Mishra](https://github.com/GMishx)
+- Mentor: [Gaurav Mishra](https://github.com/GMishx) , [Rudra Chopra](https://github.com/rudra-superrr)
 
 <h2>Media</h2>
 
